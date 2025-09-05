@@ -1,0 +1,62 @@
+
+body {
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #A4A400;
+}
+
+h2, h3 {
+    text-align: left;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+    color: #A4A400;
+}
+
+a {
+    color: #A4A400;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+blockquote {
+    font-style: italic;
+    padding: 10px;
+    background-color: #FFFFA8;
+}
+
+
+blockquote strong {
+    font-weight: bold;
+}
+
+img {
+    border-radius: 30px;
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+  }
+
+  figcaption{
+    text-align :center;
+  }
+
+  ul{
+    list-style-image: url(/images/starBullet.png);
+    margin-left: 40px;
+ }
+ 
